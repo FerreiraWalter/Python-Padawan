@@ -10,6 +10,8 @@ Estarei disponibilizando alguns materiais **gratuitos** para NOVATOS na Linguage
 
 ## Material
 * Aula 1: [Tatooine](https://github.com/FerreiraWalter/Python-Padawan/tree/main/Aula%201)🏜️
+  * [Introdução](https://github.com/FerreiraWalter/Python-Padawan/blob/main/Aula%201/1-Introdução.pdf)
+  *  [Instalando Python](https://github.com/FerreiraWalter/Python-Padawan/blob/main/Aula%201/2-Instalando_Python.pdf)
 * Aula 2:
 * Aula 3:
 * Aula 4:

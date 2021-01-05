@@ -13,6 +13,8 @@ Estarei disponibilizando alguns materiais **gratuitos** para NOVATOS na Linguage
   * [Introdução](https://github.com/FerreiraWalter/Python-Padawan/blob/main/Aula%201/1-Introdução.pdf)
   *  [Instalando Python](https://github.com/FerreiraWalter/Python-Padawan/blob/main/Aula%201/2-Instalando_Python.pdf)
 * Aula 2: [Dagobah](https://github.com/FerreiraWalter/Python-Padawan/tree/main/Aula%202)
+🌲
   * [Variáveis](https://github.com/FerreiraWalter/Python-Padawan/tree/main/Aula%202/Variáveis)
+  * [Operadores](https://github.com/FerreiraWalter/Python-Padawan/tree/main/Aula%202/Operadores)
 * Aula 3:
 * Aula 4:

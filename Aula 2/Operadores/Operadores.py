@@ -10,7 +10,7 @@ expoente = 1**1
 #Operadores de Comparação
 
 comparacao = 4 > 5
-#Isso vai FALSE
+#Isso vai ser FALSE
 outra_comparacao = 6 == 6
 #Isso vai ser TRUE
 

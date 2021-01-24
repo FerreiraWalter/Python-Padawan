@@ -1,5 +1,5 @@
 # Curso de PYTHON p/ Padawans
-eu, **Walter Ferreira**
+eu, **Walter Ferreira**👋
 
 Estarei disponibilizando alguns materiais **gratuitos** para NOVATOS na Linguagem de programação **PYTHON**.
 <img align="center"  width="300"  height="300"  src="https://github.com/FerreiraWalter/Python-Padawan/blob/main/Aula%201/imagem_2020-12-17_220117%20(1).png">
